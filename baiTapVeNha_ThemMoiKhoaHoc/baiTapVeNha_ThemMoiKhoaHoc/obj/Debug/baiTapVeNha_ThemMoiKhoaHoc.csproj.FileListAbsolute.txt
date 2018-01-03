@@ -1,0 +1,10 @@
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\bin\Debug\baiTapVeNha_ThemMoiKhoaHoc.exe.config
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\bin\Debug\baiTapVeNha_ThemMoiKhoaHoc.exe
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\bin\Debug\baiTapVeNha_ThemMoiKhoaHoc.pdb
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\obj\Debug\baiTapVeNha_ThemMoiKhoaHoc.csprojResolveAssemblyReference.cache
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\obj\Debug\baiTapVeNha_ThemMoiKhoaHoc.frmThemMoiKhoaHoc.resources
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\obj\Debug\baiTapVeNha_ThemMoiKhoaHoc.Properties.Resources.resources
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\obj\Debug\baiTapVeNha_ThemMoiKhoaHoc.csproj.GenerateResource.Cache
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\obj\Debug\baiTapVeNha_ThemMoiKhoaHoc.csproj.CoreCompileInputs.cache
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\obj\Debug\baiTapVeNha_ThemMoiKhoaHoc.exe
+E:\Winform C#\baiTapVeNha_ThemMoiKhoaHoc\baiTapVeNha_ThemMoiKhoaHoc\obj\Debug\baiTapVeNha_ThemMoiKhoaHoc.pdb
